@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulogna 
 - 👀 I’m interested in creating stuffs and learn new things
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning React
 - 💞️ I’m looking for great ideas for creating projects
 -
 
